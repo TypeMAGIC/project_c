@@ -1,0 +1,10 @@
+C:\project_c\project_c\form_test2\bin\Debug\form_test2.exe.config
+C:\project_c\project_c\form_test2\bin\Debug\form_test2.exe
+C:\project_c\project_c\form_test2\bin\Debug\form_test2.pdb
+C:\project_c\project_c\form_test2\obj\Debug\form_test2.Properties.Resources.resources
+C:\project_c\project_c\form_test2\obj\Debug\form_test2.csproj.GenerateResource.cache
+C:\project_c\project_c\form_test2\obj\Debug\form_test2.csproj.CoreCompileInputs.cache
+C:\project_c\project_c\form_test2\obj\Debug\form_test2.exe
+C:\project_c\project_c\form_test2\obj\Debug\form_test2.pdb
+C:\project_c\project_c\form_test2\obj\Debug\form_test2.csprojAssemblyReference.cache
+C:\project_c\project_c\form_test2\obj\Debug\form_test2.Simple_calculator.resources
