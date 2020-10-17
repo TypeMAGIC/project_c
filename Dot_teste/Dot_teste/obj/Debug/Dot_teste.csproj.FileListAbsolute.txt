@@ -1,0 +1,10 @@
+C:\project_c\Dot_teste\Dot_teste\bin\Debug\Dot_teste.exe.config
+C:\project_c\Dot_teste\Dot_teste\bin\Debug\Dot_teste.exe
+C:\project_c\Dot_teste\Dot_teste\bin\Debug\Dot_teste.pdb
+C:\project_c\Dot_teste\Dot_teste\obj\Debug\Dot_teste.csprojAssemblyReference.cache
+C:\project_c\Dot_teste\Dot_teste\obj\Debug\Dot_teste.Form1.resources
+C:\project_c\Dot_teste\Dot_teste\obj\Debug\Dot_teste.Properties.Resources.resources
+C:\project_c\Dot_teste\Dot_teste\obj\Debug\Dot_teste.csproj.GenerateResource.cache
+C:\project_c\Dot_teste\Dot_teste\obj\Debug\Dot_teste.csproj.CoreCompileInputs.cache
+C:\project_c\Dot_teste\Dot_teste\obj\Debug\Dot_teste.exe
+C:\project_c\Dot_teste\Dot_teste\obj\Debug\Dot_teste.pdb

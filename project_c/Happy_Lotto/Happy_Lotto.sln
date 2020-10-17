@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happy_Lotto", "Happy_Lotto\Happy_Lotto.csproj", "{6629F49E-07CA-47EA-898C-7FB473EFE461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6629F49E-07CA-47EA-898C-7FB473EFE461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6629F49E-07CA-47EA-898C-7FB473EFE461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6629F49E-07CA-47EA-898C-7FB473EFE461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6629F49E-07CA-47EA-898C-7FB473EFE461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97FABBC9-0739-4E9B-9AA8-EE04F5FE85CA}
+	EndGlobalSection
+EndGlobal

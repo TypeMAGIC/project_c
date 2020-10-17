@@ -1,0 +1,10 @@
+C:\project_c\project_c\Simple_calculator - 1.1.0\Simple_calculator - 1.1.0\obj\Debug\Simple_calculator___1._1._0.Properties.Resources.resources
+C:\project_c\project_c\Simple_calculator - 1.1.0\Simple_calculator - 1.1.0\obj\Debug\Simple_calculator - 1.1.0.csproj.GenerateResource.cache
+C:\project_c\project_c\Simple_calculator - 1.1.0\Simple_calculator - 1.1.0\obj\Debug\Simple_calculator - 1.1.0.csproj.CoreCompileInputs.cache
+C:\project_c\project_c\Simple_calculator - 1.1.0\Simple_calculator - 1.1.0\bin\Debug\Simple_calculator - 1.1.0.exe.config
+C:\project_c\project_c\Simple_calculator - 1.1.0\Simple_calculator - 1.1.0\bin\Debug\Simple_calculator - 1.1.0.exe
+C:\project_c\project_c\Simple_calculator - 1.1.0\Simple_calculator - 1.1.0\bin\Debug\Simple_calculator - 1.1.0.pdb
+C:\project_c\project_c\Simple_calculator - 1.1.0\Simple_calculator - 1.1.0\obj\Debug\Simple_calculator - 1.1.0.exe
+C:\project_c\project_c\Simple_calculator - 1.1.0\Simple_calculator - 1.1.0\obj\Debug\Simple_calculator - 1.1.0.pdb
+C:\project_c\project_c\Simple_calculator - 1.1.0\Simple_calculator - 1.1.0\obj\Debug\Simple_calculator - 1.1.0.csprojAssemblyReference.cache
+C:\project_c\project_c\Simple_calculator - 1.1.0\Simple_calculator - 1.1.0\obj\Debug\Simple_calculator.Calculator.resources
